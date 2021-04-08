@@ -151,9 +151,7 @@ or
 # Rank camp
 
 <div align="center">
-    <img src="
-https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png
-" width="400px"</img> 
+    <img src="/myCamp/master/myCamp_readme_content/rankstars.png" width="400px"</img> 
 </div>
 
 # Leave a comment
