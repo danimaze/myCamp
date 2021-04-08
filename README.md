@@ -151,26 +151,15 @@ or
 # Rank camp
 
 <div align="center">
-    <img src="/myCamp/master/myCamp_readme_content/rankstars.png" </img> 
+    <img src="
+https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png
+" width="400px"</img> 
 </div>
 
 # Leave a comment
 
-<div align="center">
-    <img src="
-myCamp_readme_content/comments.png" width="400px"</img> 
-</div>
-
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+![Alt text]( https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png
+?raw=true "Optional Title")
 
 
 <!-- CONTRIBUTING -->
