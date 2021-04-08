@@ -102,20 +102,23 @@ enjoy the website.
 This list of any major frameworks that been used to built myCamp project.
 
 ##Front End
+
 * [Bootstrap](https://getbootstrap.com)
 
 ##Back End
+
 * [Multer]( https://github.com/expressjs/multer)
-* [Express] (https://expressjs.com/)
-* [Passport.js] (http://www.passportjs.org/)
-* [Axios] (https://github.com/axios/axios)
-* [joi] (https://joi.dev/api/?v=17.4.0)
+* [Express](https://expressjs.com/)
+* [Passport.js](http://www.passportjs.org/)
+* [Axios](https://github.com/axios/axios)
+* [joi](https://joi.dev/api/?v=17.4.0)
 * [EJS]( https://ejs.co/)
 * [Helmet]( https://helmetjs.github.io/)
 * [node.js]( https://nodejs.org/en/)
 * [uuid]( https://www.npmjs.com/package/uuid)
 
 ##Hosting /Debugging /CDN
+
 * [Cloudinary]( https://cloudinary.com/)
 * [mongoose]( https://mongoosejs.com/)
 * [Heroku]( https://dashboard.heroku.com/)
@@ -132,6 +135,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ##Clone/ Download project 
+
 (`git clone https://github.com/orendevops/myCamp`)
 
 ### Prerequisites
