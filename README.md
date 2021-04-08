@@ -158,8 +158,7 @@ https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content
 
 # Leave a comment
 
-![Alt text]( https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png
-?raw=true "Optional Title")
+![Alt text]( https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png?raw=true "Optional Title")
 
 
 <!-- CONTRIBUTING -->
