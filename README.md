@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]( https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/home.png)
+[![https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/home.png][product-screenshot]](https://example.com)
 
 if you ever wanted to recommend your best campground place and did
 not had the platform to get people to know about, myCamp is the spot.
