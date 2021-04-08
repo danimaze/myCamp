@@ -150,15 +150,11 @@ or
 
 # Rank camp
 
-<div align="center">
-    <img src="
-https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png
-" width="400px"</img> 
-</div>
+![Alt text]( https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png?raw=true "myCamp stars")
 
-# Leave a comment
+# comment
 
-![Alt text]( https://raw.githubusercontent.com/orendevops/myCamp/master/myCamp_readme_content/rankstars.png?raw=true "Optional Title")
+![Alt text]( https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/comments.png?raw=true "myCamp comments")
 
 
 <!-- CONTRIBUTING -->
