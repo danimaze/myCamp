@@ -39,8 +39,6 @@
   <p align="center">
     An awesome campgrounds platform!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://quiet-hamlet-08324.herokuapp.com/">View Demo</a>
     ·
@@ -83,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]( https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/home.png)
 
 if you ever wanted to recommend your best campground place and did
 not had the platform to get people to know about, myCamp is the spot.
