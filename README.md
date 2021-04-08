@@ -152,14 +152,14 @@ or
 
 <div align="center">
     <img src="
-https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/rankstars.png" width="400px"</img> 
+/myCamp_readme_content/rankstars.png" width="400px"</img> 
 </div>
 
 # Leave a comment
 
 <div align="center">
     <img src="
-https://github.com/orendevops/myCamp/blob/master/myCamp_readme_content/comments.png" width="400px"</img> 
+myCamp_readme_content/comments.png" width="400px"</img> 
 </div>
 
 
